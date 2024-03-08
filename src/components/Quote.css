@@ -1,0 +1,12 @@
+.quote-screen{
+    padding: 2rem 8rem;
+display: flex;
+flex-direction: column;
+gap: 2rem;
+text-align: center;
+border: 2px solid black;
+margin: 3rem;
+background-color: aqua;
+
+}
+
